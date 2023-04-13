@@ -1,1 +1,1 @@
-# debun_mini_project
+## 데이터분석 미니프로젝트
